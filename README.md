@@ -22,3 +22,8 @@ Analyze security logs using Splunk Cloud to identify suspicious activities.
 
 ## Evidence
 Screenshots are provided in the Screenshots folder.
+## Evidence Screenshots
+
+- Login Failed Events: `03_login_failed_search.png`
+- Malware Detection Events: `04_malware_detected_search.png`
+- Login Success Events: `05_login_success_search.png`
